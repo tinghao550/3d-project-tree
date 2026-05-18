@@ -80,6 +80,10 @@ All customization in `js/config.js`:
 - [MediaPipe Hands](https://cdn.jsdelivr.net/npm/@mediapipe/hands) — Hand gesture recognition (loaded from CDN, optional)
 - No build tools, no npm, no server required
 
+## 🙏 Credits
+
+This project was inspired by an open-source 3D visualization project. The concept of rendering directory structures as interactive 3D cards was adapted and rebuilt with glassmorphism styling, enhanced gesture controls, and a fully configurable architecture. If you recognize the original work and have questions, feel free to open an issue.
+
 ## 📜 License
 
 MIT
