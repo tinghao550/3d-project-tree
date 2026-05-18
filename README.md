@@ -82,7 +82,7 @@ All customization in `js/config.js`:
 
 ## 🙏 Credits
 
-- Hand gesture recognition module (`js/gestures.js`) references code from an open-source 3D project for MediaPipe Hands integration. All other code (card rendering, 3D layout, navigation, particles, styling) is original.
+- Hand gesture recognition module (`js/gestures.js`) references code from [smallai-3d](https://github.com/tinghao550/smallai-3d) for MediaPipe Hands integration. All other code (card rendering, 3D layout, navigation, particles, styling) is original.
 
 ## 📜 License
 
